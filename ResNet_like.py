@@ -1,6 +1,6 @@
 '''
 
-LeNet-5 like neural network using Tensorflow.
+ResNet like neural network using Tensorflow.
 
 '''
 
